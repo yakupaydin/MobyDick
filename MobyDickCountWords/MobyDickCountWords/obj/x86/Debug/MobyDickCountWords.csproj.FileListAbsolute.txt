@@ -1,0 +1,6 @@
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/bin/Debug/MobyDickCountWords.exe
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/bin/Debug/MobyDickCountWords.pdb
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/obj/x86/Debug/MobyDickCountWords.csprojAssemblyReference.cache
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/obj/x86/Debug/MobyDickCountWords.csproj.CoreCompileInputs.cache
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/obj/x86/Debug/MobyDickCountWords.exe
+/Users/yakupaydin/Projects/MobyDickCountWords/MobyDickCountWords/obj/x86/Debug/MobyDickCountWords.pdb

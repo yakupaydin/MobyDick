@@ -1,0 +1,52 @@
+﻿@using MobyDickShowWords.Models
+
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>Moby Dick Counted Words</h2>
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="FileUpload" />
+        <input type="submit" name="Submit" id="Submit" value="Upload" />
+        <br><br>
+
+        <table>
+
+            <tr>
+                <th>Text</th>
+                <th>Count</th>
+            </tr>
+            @if (Model != null)
+            {
+                foreach (Words word in Model)
+                {
+                    <tr>
+                        <td>@word.text</td>
+                        <td>@word.count</td>
+
+                    </tr>
+                }
+            }
+        </table>
+    }
+
+</body>

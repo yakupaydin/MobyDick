@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E4C5EE4D-9A49-4F00-A9D2-3F9A5A49B2B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobyDickShowWords.Tests/packages.config">
+    <Files>
+      <File FileName="MobyDickCountWords/Program.cs" Line="94" Column="17" />
+      <File FileName="MobyDickShowWords/Controllers/HomeController.cs" Line="29" Column="12" />
+      <File FileName="MobyDickShowWords.Tests/Controllers/HomeControllerTest.cs" Line="23" Column="13" />
+      <File FileName="MobyDickShowWords/Views/Home/Index.cshtml" Line="45" Column="25" />
+      <File FileName="MobyDickShowWords/Models/Words.cs" Line="4" Column="18" />
+      <File FileName="MobyDickShowWords/Web.config" Line="22" Column="27" />
+      <File FileName="MobyDickShowWords.Tests/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobyDickCountWords" expanded="True">
+            <Node name="MobyDickShowWords.Tests" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" selected="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MobyDickCountWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MobyDickShowWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MobyDickShowWords.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
